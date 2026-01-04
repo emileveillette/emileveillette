@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emileveillette
+
 - 🌱 I’m currently learning how to make video games
 - 💞️ I’m looking to collaborate on video games
 
